@@ -1,4 +1,4 @@
 # Lightning--Tailoring-Application
-In Development
-in deployment
-example
+
+
+    This is basic tailoring application where user can buy cloth and request an order for make/repair/alter
